@@ -1,6 +1,6 @@
-# NIPS 2018 Examples
+# NuerIPS 2018 Examples
 
-This repo contains the Jupyter notebooks that were shown on the rolling deck screen at Facebook booth during NIPS 2018.
+This repo contains the Jupyter notebooks that were shown on the rolling deck screen at Facebook booth during NuerIPS 2018.
 
 ## Installing
 
